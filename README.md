@@ -13,9 +13,8 @@ who is fostering this open source artificial intelligence.
 * "Do you even rhyme?"
 
 ## Credits
-Mycroft AI (@MycroftAI)
+lunar
 
-Poem penned by community member Jelmer Prins
 
 ## Category
 **Entertainment**
